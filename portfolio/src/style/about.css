@@ -1,0 +1,11 @@
+.about-container {
+  text-align: center;
+  padding: 30px;
+  height: 50vh;
+}
+.about-desc {
+  height: 30vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}

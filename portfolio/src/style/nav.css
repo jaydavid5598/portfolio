@@ -1,0 +1,26 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  width: 100%;
+  box-shadow: 0px 8px 8px -6px rgba(0, 0, 0, 0.5);
+  position: fixed;
+  background: white;
+}
+.nav-ul {
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-decoration: none;
+  list-style: none;
+}
+.logo-container {
+  width: 20px;
+  height: 20px;
+}
+.logo {
+  width: 40px;
+  height: 40px;
+}
