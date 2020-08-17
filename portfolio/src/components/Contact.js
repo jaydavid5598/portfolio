@@ -12,25 +12,20 @@ export default class Contact extends Component {
           <div className="contact-list">
             <div className="contactlist-item">
               <h3>Opening Hours</h3>
+              <br />
               <label>Monday - Saturday</label>
+              <br />
               <label> 5:00 PM - 6:00 AM</label>
             </div>
             <div className="contactlist-item">
-              <label>LOCATION</label>
+              <h3>Location</h3>
+              <br />
               <label>L&S Subdivision, Narra St, Angeles, Pampanga</label>
             </div>
             <div className="contactlist-item">
-              <label>MOBILE CONTACT</label>
+              <h3>Mobile Contact</h3>
+              <br />
               <label>+923 - 4566 - 789</label>
-            </div>
-          </div>
-          <div className="contact-list-social">
-            <div className="contact-list-title">
-              <h3>Connect With Us</h3>
-            </div>
-            <div className="contact-list-item">
-              <img src={fbLogo} alt="facebook-logo" />
-              <label>thelandiapub2020</label>
             </div>
           </div>
         </div>
