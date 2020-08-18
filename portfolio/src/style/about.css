@@ -1,11 +1,12 @@
 .about-container {
   text-align: center;
   padding: 30px;
-  height: 50vh;
+  height: 90vh;
 }
 .about-desc {
-  height: 30vh;
+  height: 60vh;
   display: flex;
   align-items: center;
   justify-content: space-around;
+  flex-direction: column;
 }
