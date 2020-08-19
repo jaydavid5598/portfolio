@@ -5,7 +5,7 @@ export default class Nav extends Component {
   render() {
     return (
       <nav>
-        <h3>LANDIA PUB BAR</h3>
+        <h3 className="nav-title">LANDIA PUB</h3>
 
         <ul className="nav-ul">
           <li>Services</li>

@@ -6,12 +6,12 @@ export default class Greet extends Component {
     return (
       <div className="greet">
         <div className="greet-container">
-          <h1 className="greet-title"> LANDIA PUB</h1>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium
-            explicabo dignissimos ratione voluptas aliquid? Assumenda pariatur
-            ducimus expedita officiis labore?
-          </p>
+          <h1 className="greet-title"> LANDIA PUB </h1>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+          <div>
+            <button>Get Started</button>
+            <button>Visit Us</button>
+          </div>
         </div>
       </div>
     );

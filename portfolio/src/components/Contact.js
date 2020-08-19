@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import "../style/contact.css";
-import fbLogo from "../img/fb-logo.png";
 export default class Contact extends Component {
   render() {
     return (

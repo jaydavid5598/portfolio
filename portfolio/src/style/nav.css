@@ -9,7 +9,11 @@ nav {
   background: #5f4431;
   color: white;
 }
+.nav-title {
+  cursor: pointer;
+}
 .nav-ul {
+  cursor: pointer;
   width: 40%;
   display: flex;
   justify-content: space-around;
