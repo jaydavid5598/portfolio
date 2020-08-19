@@ -5,7 +5,7 @@
 
   justify-content: space-around;
   align-items: center;
-  background-image: linear-gradient(rgb(245, 241, 0), rgb(165, 165, 1));
+  background: #1b1b19;
   color: white;
   flex-direction: column;
 }

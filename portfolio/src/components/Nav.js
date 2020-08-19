@@ -5,12 +5,13 @@ export default class Nav extends Component {
   render() {
     return (
       <nav>
-        <h3>LANDIA PUB</h3>
+        <h3>LANDIA PUB BAR</h3>
 
         <ul className="nav-ul">
           <li>Services</li>
+          <li>Menu</li>
           <li>About</li>
-          <li>Contact</li>
+          <li>Contact Us</li>
         </ul>
       </nav>
     );
